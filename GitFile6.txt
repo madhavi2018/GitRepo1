@@ -1,2 +1,6 @@
-Hi this file is in branch master
+<<<<<<< HEAD
+Hi this file is in branch 
+=======
+Hi this file is in branch GitBranch6
+>>>>>>> GitBranch3
 
